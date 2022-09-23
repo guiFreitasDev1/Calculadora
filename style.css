@@ -16,7 +16,7 @@
 
 .calculadora{
     position: absolute;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.801);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -33,6 +33,7 @@
     border: none;
     color: white;
     margin: 5px;
+    border-radius: 3px;
 }
 .button:hover{
     background-color: black;
